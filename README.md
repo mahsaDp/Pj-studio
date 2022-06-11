@@ -1,5 +1,4 @@
 # PJ Studio
----
 *PJ studio* is my first workout project written with html and css
 
 This project is a simple landing page for companies
