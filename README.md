@@ -1,4 +1,4 @@
-#PJ Studio
+PJ Studio
 ---
 **pj studio** is my first workout project written with html and css
 
